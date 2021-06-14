@@ -1,5 +1,4 @@
 
-// Project contributors: Lutfu and Barış
 
 /**
  * virtmem.c 
