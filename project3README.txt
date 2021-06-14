@@ -1,5 +1,5 @@
 
-// Project contributors: Lütfü Mustafa Kemal Ato && Baris Kaplan 
+// Project contributors: Lütfü && Baris 
 
 //EXPLANATIONS OF THE PART-1 && PART-2
 
