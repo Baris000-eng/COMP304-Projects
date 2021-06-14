@@ -1,6 +1,5 @@
 
-// Project contributors: Lutfu Mustafa Kemal Ato (69579) && Baris Kaplan (69054)
-
+// Project contributors: Lutfu and Barış
 
 /**
  * virtmem.c 
