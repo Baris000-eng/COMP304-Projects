@@ -1,4 +1,4 @@
-//Lutfu Mustafa Kemal Ato (69579), Baris Kaplan (69054)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
