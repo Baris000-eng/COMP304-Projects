@@ -1,4 +1,4 @@
-//LUTFU MUSTAFA KEMAL ATO (69579) and BARIS KAPLAN (69054)
+//LUTFU and BARIS
 
 
 #include <stdio.h>
